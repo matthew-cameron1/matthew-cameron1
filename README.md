@@ -24,3 +24,8 @@ Explore some of the exciting projects I've been involved in:
 [CarTracked](https://cartracked.com)
 is a SaaS application for the automotive industry which increases sales velocity, transparency and overall efficiency within individual stores and groups alike.
 The application was built on GCP, running Java and Spring Boot, MongoDB, and templating engine Apache Velocity, which has since been re-written in NextJS for a more modern approach.
+
+### Project 2: Blockchain Event Service
+
+[Blockchain Event Service](https://utiliti.ai)
+is a cutting-edge tool in the Utiliti platform designed for monitoring blockchain contract events. It allows users to input a contract address and effortlessly subscribe to specific events, receiving real-time notifications via webhooks or messaging pipelines. Stay informed about critical updates and changes on the blockchain with ease.
