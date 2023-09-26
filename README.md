@@ -1,4 +1,4 @@
-# Matthew Cameron's GitHub Playground
+# Matthew Cameron's GitHub 
 
 Welcome to my GitHub repository! 🚀
 
@@ -27,5 +27,6 @@ The application was built on GCP, running Java and Spring Boot, MongoDB, and tem
 
 ### Project 2: Blockchain Event Service
 
-[Blockchain Event Service](https://utiliti.ai)
+
+[Blockchain Event Service](https://www.utiliti.ai/docs/data-pipeline-overview)
 is a cutting-edge tool in the Utiliti platform designed for monitoring blockchain contract events. It allows users to input a contract address and effortlessly subscribe to specific events, receiving real-time notifications via webhooks or messaging pipelines. Stay informed about critical updates and changes on the blockchain with ease.
